@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+h1{
+    font-family: 'Lilita One', cursive;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 80px  
+}
+.title{
+    color: lime;
+}
